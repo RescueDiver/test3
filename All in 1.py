@@ -2,7 +2,7 @@ def menu():
     print('Option 1 EAD')
     print('Option 2 MOD')
     print('Option 3 New Mix')
-
+    print('Option 4 Rock Bottom')
 
 menu()
 option = int(input('Pick an option.  '))
